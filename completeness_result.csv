@@ -1,0 +1,12 @@
+column_name,null_count,blank_count,Whitespace_count
+ID,0,0,0
+Customer_Name,0,0,0
+Order_ID,0,0,0
+Order_Date,0,0,0
+Product,0,0,0
+Category,0,6,0
+Quantity,0,5,0
+Price,0,5,0
+Payment_Method,0,0,0
+Status,0,0,0
+Total,0,14,0
